@@ -1,0 +1,5 @@
+{ 
+    "g": "Chris", 
+    "mf": "https://hotgame47.k79.info/remote-assets/LoadingScene/", 
+    "p": "mini47-remote-asset" 
+}
